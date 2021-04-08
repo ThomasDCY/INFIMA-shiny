@@ -5,8 +5,9 @@ account: cdong39
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2680330
-bundleId: 3528849
+bundleId: 3561761
 url: https://cdong39.shinyapps.io/INFIMA-shiny/
-when: 1597739522.17473
+when: 1598487151.74289
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: .gitattributes|LICENSE|README.md|src/.DS_Store
